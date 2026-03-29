@@ -24,6 +24,10 @@ Created profiles on GitHub, LinkedIn, and Kaggle to build a professional online 
 ### Task 3: Platforms Exploration
 Solved a coding problem on HackerRank and created a Google Form for digital literacy awareness with response tracking.
 google form:https://docs.google.com/forms/d/e/1FAIpQLSf1Vr3QxJMZ0LkgVIy-6oMf1FoG9evmJHSnA-4kVgwn48yIJw/viewform?usp=header
+<img width="707" height="841" alt="google forms" src="https://github.com/user-attachments/assets/c97d2ff5-6983-468f-8050-9132348bdf4c" />
+<img width="616" height="845" alt="google forms response 1" src="https://github.com/user-attachments/assets/18394d07-b446-445c-8bb7-1fb3640c65c7" />
+
+
 
 ### Task 4: Email Etiquette
 Drafted two professional emails and created a social media do’s and don’ts checklist.
